@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="ajjpj.a.mapper" type="repository">
+    <properties maven-id="com.ajjpj.a-mapper:a-mapper:0.9-pre17" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/ajjpj/a-mapper/a-mapper/0.9-pre17/a-mapper-0.9-pre17.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/ajjpj/a-foundation/a-foundation/1.0-pre13/a-foundation-1.0-pre13.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/codehaus/janino/janino/2.6.1/janino-2.6.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/codehaus/janino/commons-compiler/2.6.1/commons-compiler-2.6.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
