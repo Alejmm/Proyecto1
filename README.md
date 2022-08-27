@@ -13,6 +13,8 @@ para la administración del reporte de inconsistencias, bugs y errores relaciona
 se proporcionan en un Sistema que se utiliza para la venta de productos online. 
 
 B) Diagrama de Clases:
+https://ibb.co/Mn5CdSD
+
 No pude agregarla en este medio, la he adjuntado al archivo de enlaces pdf. 
 
 C) Manual de Usuario: 
