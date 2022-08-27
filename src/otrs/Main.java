@@ -26,7 +26,10 @@ public class Main {
              * el siguiente menue es un método que realizamos para implementarlo
              */
             menue();
+
             ArrayList<Usuario> arreglo = new ArrayList<Usuario>();
+
+
             System.out.println("Seleccione opción: ");
             opcion = entrada.nextInt();
             /**
@@ -37,6 +40,8 @@ public class Main {
                     /**
                      * Case 1 sobre el ingreso de ticket
                      */
+
+
                     do {
 
                         System.out.println("Ingrese nit");
@@ -56,6 +61,10 @@ public class Main {
                         System.out.println(arreglo.get(i));
                     }
                     break;
+
+
+
+
 
 
 
@@ -212,6 +221,7 @@ public class Main {
      * metodo realizado para el envio de datos al archivo informacion.json
      */
     private static void ConversionJason() {
+
         ObjectMapper mapper = new ObjectMapper();
         try {
             Usuario registros = mapper.readValue(new File("informacion.json"), Usuario.class);
@@ -223,6 +233,8 @@ public class Main {
             System.out.println("Error: " + e.getMessage());
         }
 
-    }
 
+
+
+    }
 }
